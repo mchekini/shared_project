@@ -10,7 +10,7 @@ export class AppComponent
 { 
   name:string = 'Angular'; 
   inidHello(){
-    this.name="Samir 2"
+    this.name="Samir branche "
   }
 }
 
